@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data Mining Specific
+# Data files
+data/
+datasets/
+*.csv
+*.xlsx
+*.tsv
+
+# Models
+models/
+*.pkl
+*.h5
+
+# Large files
+*.zip
+*.tar.gz
